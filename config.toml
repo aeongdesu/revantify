@@ -10,5 +10,6 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Twitch]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+apkmirror-dpi = "120-640dpi"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
