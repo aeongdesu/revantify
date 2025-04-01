@@ -8,7 +8,9 @@ enable-magisk-update = true # set this to false if you do not want to receive up
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
+# broken
 [Twitch]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 apkmirror-dpi = "120-640dpi"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
