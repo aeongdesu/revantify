@@ -8,6 +8,10 @@ enable-magisk-update = true # set this to false if you do not want to receive up
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+included-patches = "'SIM spoof'"
+
 # broken
 [Twitch]
 enabled = false
